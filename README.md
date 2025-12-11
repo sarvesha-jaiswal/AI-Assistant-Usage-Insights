@@ -20,6 +20,8 @@ This dashboard helps stakeholders quickly understand how users interact with the
 
 ## Dashboard Preview
 
+<img width="1129" height="632" alt="AI Assistance by Usage Categories" src="https://github.com/user-attachments/assets/d8d257a7-e8b8-46a2-8b9d-cdfa23aad764" />
+
 ### 🔹 **Model Usage Trend Across Devices**
 Tracks how frequently each AI model (GPT-4o, GPT-5, Mini, etc.) is used across desktop, mobile, tablet, and smart speakers.
 
@@ -31,6 +33,8 @@ Compares assistant model usage with monthly user satisfaction ratings.
 
 ### 🔹 **Device Usage Distribution**
 A donut chart showing which device types users prefer.
+
+<img width="1134" height="634" alt="AI Assistance Model Usage" src="https://github.com/user-attachments/assets/0b6c8cd0-997b-476b-a6ad-571801644a63" />
 
 ### 🔹 **Average Session Duration**
 Displays how long users typically engage with tasks like Coding, Productivity, Education, Writing, etc.
