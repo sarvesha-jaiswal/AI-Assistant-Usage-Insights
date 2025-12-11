@@ -63,7 +63,7 @@ This ensures a reliable, well-structured dataset for Power BI.
 | Tool | Purpose |
 |------|---------|
 | **Python (Pandas, Matplotlib)** | Data cleaning + EDA |
-| **Jupyter Notebook** | Analysis workflow |
+| **Google colab** | Analysis workflow |
 | **Power BI Desktop** | Dashboard creation |
 | **CSV Data** | Processed dataset |
 
